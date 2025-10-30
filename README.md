@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahryar Amjad</h1>
+
 <h3 align="center">
-Associate Software Engineer | Full Stack (MERN, Next.js & FastAPI) | Exploring AI & Computer Vision | CUI ’25
+Associate Software Engineer | Full Stack (MERN, Next.js & FastAPI) <br/>
+Exploring AI & Computer Vision | CUI ’25
 </h3>
 
 ---
@@ -31,6 +33,13 @@ My work spans **web development**, **computer vision**, **AI**, and **machine le
 
 ---
 
+### 📂 Portfolio
+
+🎯 **Check out my portfolio:**  
+👉 [shahryar-portfolio-rho.vercel.app](https://shahryar-portfolio-rho.vercel.app/)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -49,7 +58,7 @@ My work spans **web development**, **computer vision**, **AI**, and **machine le
   <a href="mailto:shahryaramjadmos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://itshahryar.github.io" target="_blank">
+  <a href="https://shahryar-portfolio-rho.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
