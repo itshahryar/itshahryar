@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahryar Amjad</h1>
 
 <h3 align="center">
-Associate Software Engineer | Full Stack (MERN, Next.js & FastAPI) <br/>
+Associate Software Engineer | Full Stack (MERN, Next.js & FastAPI) | <br/>
 Exploring AI & Computer Vision | CUI ’25
 </h3>
 
@@ -30,13 +30,6 @@ My work spans **web development**, **computer vision**, **AI**, and **machine le
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,python,js,ts,mongodb,firebase,tailwind,html,css,git,github,vscode" />
 </p>
-
----
-
-### 📂 Portfolio
-
-🎯 **Check out my portfolio:**  
-👉 [shahryar-portfolio-rho.vercel.app](https://shahryar-portfolio-rho.vercel.app/)
 
 ---
 
