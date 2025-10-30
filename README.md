@@ -45,13 +45,13 @@ My work spans **web development**, **computer vision**, **AI**, and **machine le
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-shahryar-amjad-2481542b8/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-shahryar-amjad-2481542b8/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shahryaramjadmos@gmail.com" target="_blank">
+  <a href="mailto:shahryaramjadmos@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://shahryar-portfolio-rho.vercel.app/" target="_blank">
+  <a href="https://shahryar-portfolio-rho.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
