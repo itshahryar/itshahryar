@@ -1,9 +1,4 @@
-<h1 align="center">
-  Hi 👋, I'm Muhammad Shahryar Amjad  
-  <a href="https://www.linkedin.com/in/muhammad-shahryar-amjad-2481542b8/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=social&logo=linkedin" />
-  </a>
-</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Shahryar Amjad</h1>
 
 <h3 align="center">
 Associate Software Engineer | Full Stack (MERN, Next.js & FastAPI) | <br/>
